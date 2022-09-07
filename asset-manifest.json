@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.04f8e7eb.css",
+    "main.js": "./static/js/main.6d0ff1c8.js",
+    "static/media/Who.png": "./static/media/Who.00a0caf02835afd02317.png",
+    "static/media/slide2.jpg": "./static/media/slide2.3a198660306fb9cbf96b.jpg",
+    "static/media/slide1.jpg": "./static/media/slide1.cfc9767b928be3d70ae7.jpg",
+    "static/media/slide3.jpg": "./static/media/slide3.53de2fafacaf95be2849.jpg",
+    "static/media/backsw.jpg": "./static/media/backsw.a7c430bf4ad91e78b641.jpg",
+    "static/media/backsw1.jpg": "./static/media/backsw1.137ea0ef1a440439a75b.jpg",
+    "static/media/backsw2.jpg": "./static/media/backsw2.522a296a0ed2917f2d2f.jpg",
+    "static/media/card2.jpg": "./static/media/card2.d5138f84d8c82b60bd9d.jpg",
+    "static/media/logo.png": "./static/media/logo.39b8f620ced320a907ce.png",
+    "static/media/card3.jpg": "./static/media/card3.17db2750ebda76cb7b54.jpg",
+    "static/media/card1.jpg": "./static/media/card1.b43f99076af6997e9330.jpg",
+    "static/media/brash.png": "./static/media/brash.72d73e212408ca0fb96c.png",
+    "index.html": "./index.html",
+    "main.04f8e7eb.css.map": "./static/css/main.04f8e7eb.css.map",
+    "main.6d0ff1c8.js.map": "./static/js/main.6d0ff1c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f8e7eb.css",
+    "static/js/main.6d0ff1c8.js"
+  ]
+}
